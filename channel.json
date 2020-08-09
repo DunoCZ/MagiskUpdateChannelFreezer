@@ -1,12 +1,12 @@
 {
   "app": {
-    "version": "0.0.0.r0-urFreezed",
+    "version": "0.0.0 (Freezed)",
     "versionCode": "0000000000",
     "link": "",
     "note": "https://raw.githubusercontent.com/DunoCZ/MagiskUpdateChannelFreezer/master/notify.md"
   },
   "magisk": {
-    "version": "0.0.0.r0-urFreezed",
+    "version": "0.0 (Freezed)",
     "versionCode": "0000000000",
     "link": "",
     "note": "https://raw.githubusercontent.com/DunoCZ/MagiskUpdateChannelFreezer/master/notify.md",
