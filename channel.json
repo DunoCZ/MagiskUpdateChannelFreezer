@@ -1,22 +1,22 @@
 {
   "app": {
-    "version": "0",
-    "versionCode": "0",
-    "link": "",
-    "note": "Freeeeezed!"
+    "version": "0.0.0-1",
+    "versionCode": "0000000000",
+    "link": "https://raw.githubusercontent.com/DunoCZ/MagiskUpdateChannelFreezer/master/README.md",
+    "note": "https://raw.githubusercontent.com/DunoCZ/MagiskUpdateChannelFreezer/master/README.md"
   },
   "magisk": {
-    "version": "0",
-    "versionCode": "0",
-    "link": "",
-    "note": "Freeeeezed!",
+    "version": "0.0.0-1",
+    "versionCode": "0000000000",
+    "link": "https://raw.githubusercontent.com/DunoCZ/MagiskUpdateChannelFreezer/master/README.md",
+    "note": "https://raw.githubusercontent.com/DunoCZ/MagiskUpdateChannelFreezer/master/README.md",
     "md5": ""
   },
     "uninstaller": {
     "link": ""
   },
     "snet": {
-    "versionCode": "0",
-    "link": ""
+    "versionCode": "0.0.0-1",
+    "link": "https://raw.githubusercontent.com/DunoCZ/MagiskUpdateChannelFreezer/master/README.md"
   }
 }
