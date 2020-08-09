@@ -1,0 +1,22 @@
+{
+  "app": {
+    "version": "",
+    "versionCode": "",
+    "link": "",
+    "note": ""
+  },
+  "magisk": {
+    "version": "",
+    "versionCode": "",
+    "link": "",
+    "note": "",
+    "md5": ""
+  },
+    "uninstaller": {
+    "link": ""
+  },
+    "snet": {
+    "versionCode": "",
+    "link": ""
+  }
+}
