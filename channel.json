@@ -3,13 +3,13 @@
     "version": "0.0.0.r0-urFreezed",
     "versionCode": "0000000000",
     "link": "",
-    "note": "https://raw.githubusercontent.com/DunoCZ/MagiskUpdateChannelFreezer/master/README.md"
+    "note": "https://raw.githubusercontent.com/DunoCZ/MagiskUpdateChannelFreezer/master/notify.md"
   },
   "magisk": {
     "version": "0.0.0.r0-urFreezed",
     "versionCode": "0000000000",
     "link": "",
-    "note": "https://raw.githubusercontent.com/DunoCZ/MagiskUpdateChannelFreezer/master/README.md",
+    "note": "https://raw.githubusercontent.com/DunoCZ/MagiskUpdateChannelFreezer/master/notify.md",
     "md5": ""
   },
     "uninstaller": {
