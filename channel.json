@@ -1,14 +1,14 @@
 {
   "app": {
-    "version": "0.0.0-1",
+    "version": "0.0.0-r1",
     "versionCode": "0000000000",
-    "link": "https://raw.githubusercontent.com/DunoCZ/MagiskUpdateChannelFreezer/master/README.md",
+    "link": "",
     "note": "https://raw.githubusercontent.com/DunoCZ/MagiskUpdateChannelFreezer/master/README.md"
   },
   "magisk": {
-    "version": "0.0.0-1",
+    "version": "0.0.0-r1",
     "versionCode": "0000000000",
-    "link": "https://raw.githubusercontent.com/DunoCZ/MagiskUpdateChannelFreezer/master/README.md",
+    "link": "",
     "note": "https://raw.githubusercontent.com/DunoCZ/MagiskUpdateChannelFreezer/master/README.md",
     "md5": ""
   },
@@ -16,7 +16,7 @@
     "link": ""
   },
     "snet": {
-    "versionCode": "0.0.0-1",
-    "link": "https://raw.githubusercontent.com/DunoCZ/MagiskUpdateChannelFreezer/master/README.md"
+    "versionCode": "1",
+    "link": ""
   }
 }
