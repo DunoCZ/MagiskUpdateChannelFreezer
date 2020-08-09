@@ -1,22 +1,22 @@
 {
   "app": {
-    "version": "",
-    "versionCode": "",
+    "version": "0",
+    "versionCode": "0",
     "link": "",
-    "note": ""
+    "note": "Freeeeezed!"
   },
   "magisk": {
-    "version": "",
-    "versionCode": "",
+    "version": "0",
+    "versionCode": "0",
     "link": "",
-    "note": "",
+    "note": "Freeeeezed!",
     "md5": ""
   },
     "uninstaller": {
     "link": ""
   },
     "snet": {
-    "versionCode": "",
+    "versionCode": "0",
     "link": ""
   }
 }
